@@ -1,7 +1,8 @@
 ![Descrição da Imagem](output/Leonardo_Lightning_XL_A_radiant_Black_woman_34_years_old_with_3.jpg)
 
-[Ciber Café no Spotify - A Realidade por Trás da Tela](https://link-do-seu-podcast.com)
 
+🎙️ **Ouça o Podcast**:
+[Ciber Café no Spotify - A Realidade por Trás da Tela](https://link-do-seu-podcast.com)
 
 # Projeto Podcast Gerado por I.A.s
 
