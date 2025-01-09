@@ -13,10 +13,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT]
-- [LeonardoAI]
-- [ElevenLabs]
-- [Capcut]
+ChatGPT
+LeonardoAI
+ElevenLabs
+Capcut
 
 ## ✨ Como foi feito ?
 
