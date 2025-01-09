@@ -2,7 +2,7 @@
 
 
 🎙️ **Ouça o Podcast**:
-[Ciber Café no Spotify - A Realidade por Trás da Tela](https://link-do-seu-podcast.com)
+[Ciber Café no Spotify - A Realidade por Trás da Tela](https://open.spotify.com/episode/4gE5MLX5SEtnpm77HiYwP7?si=f7v9MPfJQhCWMGyAcdswig)
 
 # Projeto Podcast Gerado por I.A.s
 
