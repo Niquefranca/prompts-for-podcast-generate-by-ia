@@ -13,10 +13,10 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-ChatGPT
-LeonardoAI
-ElevenLabs
-Capcut
+- [ChatGPT](https://www.openai.com/chatgpt) - Modelo de linguagem de inteligência artificial desenvolvido pela OpenAI.
+- [LeonardoAI](https://www.leonardo.ai) - Plataforma de IA para geração de imagens e outras aplicações.
+- [ElevenLabs](https://www.elevenlabs.io) - Plataforma de inteligência artificial focada em voz.
+- [Capcut](https://www.capcut.com) - Editor de vídeo com recursos baseados em IA.
 
 ## ✨ Como foi feito ?
 
