@@ -1,4 +1,4 @@
-![Descrição da Imagem](output/Leonardo_Lightning_XL_A_confident_and_radiant_Black_woman_34_y_2.jpg)
+![Descrição da Imagem](output/Leonardo_Lightning_XL_A_radiant_Black_woman_34_years_old_with_3.jpg)
 
 
 <p align="center">
