@@ -2,12 +2,10 @@
 <a href="https://open.spotify.com/episode/4gE5MLX5SEtnpm77HiYwP7?si=f7v9MPfJQhCWMGyAcdswig/">
 
 <p align="center">
-    preview do podcast
+   Café com Ciber: A Realidade por Trás da Tela
 </p>
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+
 
 # Projeto Podcast Gerado por I.A.s
 
