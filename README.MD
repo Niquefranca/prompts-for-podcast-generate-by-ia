@@ -1,5 +1,5 @@
 ![Descrição da Imagem](output/Leonardo_Lightning_XL_A_radiant_Black_woman_34_years_old_with_3.jpg)
-<a href="https://open.spotify.com/episode/4gE5MLX5SEtnpm77HiYwP7?si=f7v9MPfJQhCWMGyAcdswig/">
+<a href="https://open.spotify.com/episode/4gE5MLX5SEtnpm77HiYwP7?si=f7v9MPfJQhCWMGyAcdswig&nd=1&dlsi=8ee7e6b3c4df4dbb/">
 
 <p align="center">
    Café com Ciber: A Realidade por Trás da Tela
