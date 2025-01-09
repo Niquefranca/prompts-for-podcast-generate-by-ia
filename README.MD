@@ -1,4 +1,4 @@
-![Descrição da Imagem](assets/minha-imagem.png)
+![Descrição da Imagem](output/Leonardo_Lightning_XL_A_confident_and_radiant_Black_woman_34_y_2.jpg)
 
 
 <p align="center">
